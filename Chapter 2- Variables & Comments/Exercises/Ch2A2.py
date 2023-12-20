@@ -1,0 +1,2 @@
+print('''Aya Shameimaru once said, "Even if you personally are so dissatisfied with life that you want the world to end, 
+      surely the cruel reality is that it will continue on, unchanging. All the better for someone perfectly content, like me."''')
